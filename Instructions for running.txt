@@ -1,0 +1,1 @@
+Instructions for running:Download executables or source files and compile all.  Download all of the text files.  Download p4gradingscript.  Run p4gradingsctipt in a bash shell to see the functionality. 
